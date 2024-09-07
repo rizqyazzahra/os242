@@ -1,6 +1,12 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+
 ZCZC W00 10 L03 GitHub repository set up
 ZCZC W00 3 L04 GitHub Pages set up
-ZCZC W00 100 L02 OS Class
+ZCZC W00 200 L02 OS Class
+ZCZC W00 23 L05 Quiz
+ZCZC W01 200 L02 OS Class
+ZCZC W01 120 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W01 150 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W01 10 L05 Quiz
