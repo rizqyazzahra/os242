@@ -2,6 +2,10 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W03 100 L02 OS Class
+ZCZC W03 30 L03 GitHub related
+ZCZC W03 40 L06 Browsing OS related
+ZCZC W03 120 L09 Doing week03 assignment
 ZCZC W02 20 L01 SCELE related
 ZCZC W02 100 L02 OS Class
 ZCZC W02 30 L03 GitHub related
