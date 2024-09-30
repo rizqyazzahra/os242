@@ -4,7 +4,9 @@
 
 ZCZC W04 200 L02 OS Class
 ZCZC W04 15 L03 GitHub related
-ZCZC W04 30 L09 Doing week04 assignment
+ZCZC W04 30 L05 Quiz related including studying
+ZCZC W04 30 L06 Browsing OS related
+ZCZC W04 50 L09 Doing week04 assignment
 ZCZC W03 100 L02 OS Class
 ZCZC W03 30 L03 GitHub related
 ZCZC W03 40 L06 Browsing OS related
