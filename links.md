@@ -18,3 +18,4 @@ permalink: LINKS/
   This easy-to-follow guide shows how can we generate a GPG key pair, export and share public keys, encrypting and decrypting files using GPG in a Linux server.
 * [What is Mounting?](https://unix.stackexchange.com/questions/3192/what-is-meant-by-mounting-a-device-in-linux) --- This article contains introduction to mounting in Linux and commands that we can use in Linux terminal.
 * [A Simple Makefile Tutorial](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/) --- This article provides a tutorial on how to make a simple Makefile.
+* [Kernel Panic: Definition and Causes](https://medium.com/@redswitches/kernel-panic-definition-and-causes-9237ab9d2170) --- This article explains about kernel panic and what causes it.
