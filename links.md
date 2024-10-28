@@ -19,3 +19,4 @@ permalink: LINKS/
 * [What is Mounting?](https://unix.stackexchange.com/questions/3192/what-is-meant-by-mounting-a-device-in-linux) --- This article contains introduction to mounting in Linux and commands that we can use in Linux terminal.
 * [A Simple Makefile Tutorial](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/) --- This article provides a tutorial on how to make a simple Makefile.
 * [Kernel Panic: Definition and Causes](https://medium.com/@redswitches/kernel-panic-definition-and-causes-9237ab9d2170) --- This article explains about kernel panic and what causes it.
+* [The fork() function in C](https://www.youtube.com/watch?v=cex9XrZCU14) --- This video explains the whole concept about fork function and how fork works in C.
