@@ -7,7 +7,7 @@ ZCZC W06 200 L02 OS Class
 ZCZC W06 15 L03 GitHub related
 ZCZC W06 40 L05 Quiz related including studying
 ZCZC W06 30 L06 Browsing OS related
-ZCZC W06 60 L09 Doing week06 assignment
+ZCZC W06 200 L09 Doing week06 assignment
 ZCZC W05 40 L01 SCELE related
 ZCZC W05 200 L02 OS Class
 ZCZC W05 15 L03 GitHub related
