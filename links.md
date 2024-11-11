@@ -21,3 +21,5 @@ permalink: LINKS/
 * [Kernel Panic: Definition and Causes](https://medium.com/@redswitches/kernel-panic-definition-and-causes-9237ab9d2170) --- This article explains about kernel panic and what causes it.
 * [The fork() function in C](https://www.youtube.com/watch?v=cex9XrZCU14) --- This video explains the whole concept about fork function and how fork works in C.
 * [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) --- This article explains about the process of syncronization
+* [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.2/index.html) --- This is the documentation of LFS Version 12.2
+* [Linux from Scratch Tutorial Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3) --- A very helpful Youtube playlist for guiding me through the LFS assignment.
