@@ -23,3 +23,5 @@ permalink: LINKS/
 * [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) --- This article explains about the process of syncronization
 * [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.2/index.html) --- This is the documentation of LFS Version 12.2
 * [Linux from Scratch Tutorial Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3) --- A very helpful Youtube playlist for guiding me through the LFS assignment.
+* [Symlink Tutorial in Linux](https://www.freecodecamp.org/news/symlink-tutorial-in-linux-how-to-create-and-remove-a-symbolic-link/) --- This article explains about symbolic links in linux
+* [Perl](https://archive.flossmanuals.net/command-line/perl.html) --- Provides explanation about Perl, since it’s installed in Linux (LFS)
