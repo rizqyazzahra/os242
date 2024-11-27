@@ -25,3 +25,5 @@ permalink: LINKS/
 * [Linux from Scratch Tutorial Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3) --- A very helpful Youtube playlist for guiding me through the LFS assignment.
 * [Symlink Tutorial in Linux](https://www.freecodecamp.org/news/symlink-tutorial-in-linux-how-to-create-and-remove-a-symbolic-link/) --- This article explains about symbolic links in linux
 * [Perl](https://archive.flossmanuals.net/command-line/perl.html) --- Provides explanation about Perl, since it’s installed in Linux (LFS)
+* [How Does Linux Boot Process Work?](https://www.youtube.com/watch?v=XpFsMB6FoOs) --- This video provides a summary and visualization of the Linux boot process.
+* [Disk Management in Operating System](https://www.geeksforgeeks.org/disk-management-in-operating-system/) --- This link talks about disk management and explains the basics in a simple way, making it easy to understand for anyone learning about operating systems.
